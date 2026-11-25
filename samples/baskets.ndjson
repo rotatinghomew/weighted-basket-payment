@@ -1,0 +1,2 @@
+{"basket":"wb-1","store":"f1","customer":"u-w","offer":"week47","max_pay":3400,"items":[{"line":"L-a","sku":"pear","min":1100,"max":1500,"allow_group":true},{"line":"L-b","sku":"greens","min":1200,"max":1450,"allow_group":false}]}
+{"basket":"wb-2","store":"f1","customer":"u-x","offer":"week48","max_pay":5000,"items":[{"line":"L-c","sku":"apple","min":1400,"max":2000,"allow_group":false}]}

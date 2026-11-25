@@ -1,0 +1,6 @@
+{"channel":"wallet-a","ref":"p01","version":1,"action":"hold","status":"succeeded","amount":3400}
+{"channel":"wallet-a","ref":"p02","version":1,"action":"capture","status":"unknown","parent":"p01","amount":3011}
+{"channel":"wallet-a","ref":"p02","version":3,"action":"capture","status":"succeeded","parent":"p01","amount":3011}
+{"channel":"wallet-a","ref":"p02","version":2,"action":"capture","status":"accepted","parent":"p01","amount":3011}
+{"channel":"wallet-a","ref":"p03","version":1,"action":"refund","status":"accepted","parent":"p02","amount":3011}
+{"channel":"wallet-a","ref":"p03","version":2,"action":"refund","status":"succeeded","parent":"p02","amount":3011}

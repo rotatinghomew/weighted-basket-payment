@@ -1,0 +1,4 @@
+{"store":"f1","scale":"s1","ticket":"w31","line":"L-a","sku":"pear","grams":1300,"bag":"bag-31","by":"picker-1","revision":1}
+{"store":"f1","scale":"s1","ticket":"w32","line":"L-b","sku":"greens","grams":1300,"bag":"bag-31","by":"picker-1","revision":1}
+{"store":"f1","scale":"s1","ticket":"w31","line":"L-a","sku":"apple","grams":1800,"bag":"bag-32","by":"picker-2","revision":2}
+{"store":"f1","scale":"s2","ticket":"w31","line":"L-b","sku":"greens","grams":1250,"bag":"bag-32","by":"picker-2","revision":1}
